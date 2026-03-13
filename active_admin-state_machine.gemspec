@@ -29,7 +29,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", '>= 7.2'
   s.add_dependency "activeadmin", "~> 3.3.0"
-  s.add_dependency "state_machine"
 
   s.add_development_dependency "rake", "> 10.0"
   s.add_development_dependency "sqlite3"

@@ -1,5 +1,4 @@
 require 'active_admin'
-require 'state_machine'
 
 # optional dependency
 begin
